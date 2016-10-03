@@ -1,0 +1,14 @@
+{
+  "name": "learning-games-core",
+  "description": "Common functionality the Engagement Lab's socket-based learning games.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engagementgamelab/learning-games-core.git"
+  },
+  "version": "0.0.5",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "winston": "^2.2.0"
+  }
+}
